@@ -1,3 +1,5 @@
+# Forked For Learning Purpose ONLY
+
 # Lukim Gather Mobile
 
 Repository for Lukim Gather Mobile App
